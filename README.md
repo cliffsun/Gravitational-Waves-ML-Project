@@ -1,1 +1,1 @@
-# Gravitational-Wave-ML-Project
+# Diff-EQ-ML-Project
